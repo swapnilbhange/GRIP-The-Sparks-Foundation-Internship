@@ -1,4 +1,5 @@
 # GRIP-The-Sparks-Foundation-Internship
+![alt text](https://www.thesparksfoundationsingapore.org/images/logo_small.png)
 
 This repository is created as a part of Data Science & Business Analytics Internship offered by The Sparks Foundation under GRIP.
 
@@ -6,7 +7,7 @@ GRIP - The Spark Foundation
 Task 1 - LinkedIn Profile
 Linkedin: [Swapnil Bhange](https://www.linkedin.com/in/swapnil-bhange-92711612b/) 
 
-### Task 2 - Simple Linear Regression Task
+### Task 2 - Simple Linear Regression
 
 Predict the percentage of marks that a student is expected to score based upon the number of hours they studied.
 
